@@ -1,0 +1,3 @@
+[submodule "scripts/wireguard/wireguard-install"]
+	path = scripts/wireguard/wireguard-install
+	url = https://github.com/angristan/wireguard-install.git
